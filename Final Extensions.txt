@@ -1,0 +1,75 @@
+Sl	Name
+1	Atom One Dark Theme
+2	Auto Close Tag
+3	Autopep8
+4	Ayu
+5	Code Runner
+6	Code Spell Chekcer
+7	Color Highlight
+8	CSS Peek
+9	ESLint
+10	Github Theme
+11	Git Lens
+12	HTML CSS Support
+13	ES6
+14	JavaScript and TypeScript Nightly
+15	Live SASS Compiler
+16	Live Server
+17	Markdownlint
+18	Materila Icon Theme
+19	One Dark Pro
+20	Path Intellisens
+21	PowerSheel
+22	Prettier
+23	Pylance
+24	Python
+25	Python Debugger
+26	Tabnine
+27	Tailwindcss Intellisense
+28	Tailwind docs
+29	Todo Tree
+30	HTML End Tag Labels
+31	Inline Fold - VSCode Extension
+32	Visual Studio IntelliCode
+33	IntelliCode API Usage Examples
+34	Quokka.js Visual Studio Code Extension
+35	Tabnine: The AI code assistant that you control
+	VS Code JavaScript (ES6) snippets
+
+
+1	1.Auto Rename Tag
+2	2.Auto Import
+3	3.Better Comments
+4	4.Bracket Pair Color DLW
+5	5.Bracket Pair Colorization Toggler
+6	6.Code Runner
+7	7.CodeSnap
+8	8.Color Highlight
+9	9.Error Lens
+10	10.ESLint
+11	11.Excalidraw
+12	12.GitHub Theme
+13	13.HTML CSS Support
+14	14.HTML End Tag Labels
+15	15.Image preview
+16	16.indent-rainbow
+17	17.JavaScript (ES6) code snippets
+18	18.JSON Viewer
+19	19.Live Server
+20	20.Material Icon Theme
+21	21.npm Intellisense
+22	22.Path Autocomplete
+23	23.Path Intellisense
+24	24.Prettier - Code formatter
+25	25.React Extension Pack
+26	26.REST Client
+27	27.Tailwind CSS IntelliSense
+28	28.Thunder Client
+29	29.vscode-pets
+30	30.WakaTime
+31	
+32	
+33	
+34	
+35	
+	
